@@ -1,0 +1,16 @@
+body {
+    background: linear-gradient(-45deg, #1da7b9, #1bbfca, #1c4957, #0a8f7d);
+    background-size: 400% 400%;
+    animation: gradient 10s ease infinite;
+    height: 100vh;
+    color: azure;
+}
+
+body h1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: azure;
+    text-decoration: underline;
+    padding-top: 18%;
+}
